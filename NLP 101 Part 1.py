@@ -60,3 +60,10 @@ text_freq = FreqDist(text_lemma)
 print(text_freq.most_common(50))
 text_freq.plot(50)
 
+#POS Tagging
+text_tagged = nltk.pos_tag(text_word)
+print(text_tagged)
+
+#Chunking
+text_chunks = nltk.ne_chunk(text_tagged)
+print("Text chunks --->", text_chunks)
