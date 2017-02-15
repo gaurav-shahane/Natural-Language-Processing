@@ -6,7 +6,7 @@ Natural Language Processing Tutorials and Projects
 This is the tutorial created for my presentation in Data Science Army group in University of Maryland. Links as below.
 
 - <a href="https://github.com/gaurav-shahane/Natural-Language-Processing/blob/master/NLP%20101.pdf">Presentation</a>
-- <a href="https://github.com/gaurav-shahane/Natural-Language-Processing/blob/master/NLP%20101%20Part%201.py">Script</a>
+- <a href="https://github.com/gaurav-shahane/Natural-Language-Processing/blob/master/NLP%20101%20Part%201.py">Python Script for basic NLP operations in NLTK package</a>
 
 <h3>Contents:</h3>
 - Parsing 
